@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adil2133-git/leetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
