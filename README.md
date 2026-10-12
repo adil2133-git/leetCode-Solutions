@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adil2133-git/leetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -25,8 +26,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0136-single-number) |
+| [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0136-single-number) |
+## Two Pointers
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->
