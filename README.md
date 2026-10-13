@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0136-single-number) |
 | [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2706-buy-two-chocolates](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
+## Greedy
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2706-buy-two-chocolates) |
+## Sorting
+|  |
+| ------- |
+| [2706-buy-two-chocolates](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
