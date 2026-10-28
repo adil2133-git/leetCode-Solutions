@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0268-missing-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/adil2133-git/leetCode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 ## Simulation
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adil2133-git/leetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
@@ -31,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0268-missing-number) |
 | [2540-minimum-common-value](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
@@ -52,5 +57,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0268-missing-number) |
 | [2706-buy-two-chocolates](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 <!---LeetCode Topics End-->
