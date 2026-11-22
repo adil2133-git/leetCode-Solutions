@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/adil2133-git/leetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/adil2133-git/leetCode-Solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2129-capitalize-the-title](https://github.com/adil2133-git/leetCode-Solutions/tree/master/2129-capitalize-the-title) |
 ## Counting
 |  |
 | ------- |
